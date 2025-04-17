@@ -1,0 +1,15 @@
+
+* {
+margin: 0px;
+padding: 0px;
+}
+
+#link {
+text-decoration: none;
+color: none;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+font-style: bold;
+border: 2px solid blue;
+border-radius: 10px;
+}
